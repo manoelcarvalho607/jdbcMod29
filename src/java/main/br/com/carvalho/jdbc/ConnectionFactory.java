@@ -44,8 +44,8 @@ public class ConnectionFactory {
       //  String driver = "com.mysql.cj.jdbc.Driver";
         // armazenando informações referentes ao DB
         String url = "jdbc:mysql://localhost:3306/db_vendas_online?characterEncoding=utf-8";
-        String user = "root";
-        String password = "123456";
+        String user = "";
+        String password = "";
         // Estabelecendo a conexao com DB
         try {
            
