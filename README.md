@@ -1,5 +1,5 @@
 ## curso: Developer Backend Java - Ebac
 ### modulo29
 
-- <strong>projeto implentação crud</strong> 
+- <strong>projet - crud - jdbc - db </strong> 
 - <strong>aplicando metodologia TDD</strong> 
